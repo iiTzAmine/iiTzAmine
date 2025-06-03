@@ -6,8 +6,6 @@
 
 🔧 I build scalable web apps, craft clean APIs, and automate things.  <br/>
 
-📫 Let's connect: [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/elouarradi-mohamed-amine-5928782a1/)) <br/>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iiTzAm1ne) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elouarradi-mohamed-amine-5928782a1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elouarradi.mohamedamine@gmail.com) 
